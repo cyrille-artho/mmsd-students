@@ -23,5 +23,4 @@ domain = "kth.se";
 document.write('E-mail: <a href=\"mailto:' + user + '@' + domain + '\">' + 
 			user + '@' + domain + '</a>');
 // End -->
-</script>
-<noscript>artho (at) kth.se</noscript>), state why you are motivated and suitable for one or two of the given projects, and also let us know about any outstanding achievements during your studies (top course grades, involvement in open-source projects, etc.).
+</script><noscript>artho (at) kth.se</noscript>), state why you are motivated and suitable for one or two of the given projects, and also let us know about any outstanding achievements during your studies (top course grades, involvement in open-source projects, etc.).
