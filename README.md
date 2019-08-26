@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Master's thesis in Tokyo?
 
-You can use the [editor on GitHub](https://github.com/cyrille-artho/mmsd-students/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Interested in a thesis at the cutting edge of combinatorics or software engineering?**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Possible student projects in collaboration with the [ERATO-MMSD Center](https://group-mmm.org/eratommsd/) in Tokyo.
 
-### Markdown
+### A combinatorial approach to detect unstable configurations
+Many cyber-physical systems have controllers and algorithms that depend on parameters; they reflect real-world conditions (in a simulation) or settings of the controller itself. The problem of finding an unstable configuration pair is concerned with finding a setting that works well, but fails if one or a few parameters are changed slightly. The challenge is to find a similar pair of configurations that shows such instability.
+In this project, we aim to apply combinatorial approaches to search efficiently through configurations that are affected by pair-wise (or k-wise) changes. This extends prior work by Arcaini and Yamada, members of the MMSD-ERATO research center in Japan.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Synthesizing attacks on wireless communication
+In his recent work, Cetinkaya showed an efficient jamming attack on wireless communication. That attack was found by specifying the attack pattern a priori.
+We plan to evaluate the feasibility of synthesizing such an attack from scratch, by using the Fourier transform of the attack waveform as a parametric representation of the attack signal. By adapting state space optimization techniques from combinatorial testing and other domains, we can prioritize the search of certain frequencies or combinations thereof.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cyrille-artho/mmsd-students/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Impact of different test methodologies on fault localization
+Fault localization benefits from having a high number of labeled test cases. However, this is hard to come by: Unit test suites usually have a relatively minimal set of tests to cover certain functionality or fulfill code coverage criteria. While fully automated testing techniques such as random testing or symbolic execution have potentially the ability to increase code coverage, they often produce false positives, due to a lack of a precise test oracle. Therefore, they tend to produce unlabeled tests.
+Model-based testing has the potential to include accurately labeled test cases, if the model includes a precise oracle. The goal of this project is to evaluate different test methods, and combinations thereof, to fault localization, to extend recent work by Zhang et al.
+Such work can reuse some existing models from Modbat, and also create models for some examples from Defects4J, such as Apache commons-lang, Apache commons-math, and Mockito.
