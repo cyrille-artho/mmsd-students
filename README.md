@@ -1,5 +1,3 @@
-# Master's thesis in Tokyo?
-
 **Interested in a thesis at the cutting edge of combinatorics or software engineering?**
 
 ## Possible student projects in collaboration with the [ERATO-MMSD Center](https://group-mmm.org/eratommsd/) in Tokyo.
