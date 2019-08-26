@@ -1,4 +1,4 @@
-**Interested in a thesis at the cutting edge of combinatorics or software engineering?**
+**Interested in a Master's thesis at the cutting edge of combinatorics or software engineering?**
 
 ## Possible student projects for KTH students in collaboration with the [ERATO-MMSD Center](https://group-mmm.org/eratommsd/) in Tokyo:
 
