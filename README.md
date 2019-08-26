@@ -16,4 +16,12 @@ Model-based testing has the potential to include accurately labeled test cases, 
 Such work can reuse some existing models from [Modbat](https://people.kth.se/~artho/modbat/), and also create models for some examples from [Defects4J](https://github.com/rjust/defects4j), such as Apache commons-lang, Apache commons-math, and Mockito.
 
 ## Interested?
-Send an e-mail to [Cyrille Artho](mailto:artho@kth.se), state why you are motivated and suitable for one or two of the given projects, and also let us know about any outstanding achievements during your studies (top course grades, involvement in open-source projects, etc.).
+Send an e-mail to <script type="text/javascript">
+<!-- Begin
+user = "artho";
+domain = "kth.se";
+document.write('E-mail: <a href=\"mailto:' + user + '@' + domain + '\">' + 
+			user + '@' + domain + '</a>');
+// End -->
+</script>
+<noscript>artho (at) kth.se</noscript>, state why you are motivated and suitable for one or two of the given projects, and also let us know about any outstanding achievements during your studies (top course grades, involvement in open-source projects, etc.).
