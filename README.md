@@ -1,6 +1,6 @@
 **Interested in a thesis at the cutting edge of combinatorics or software engineering?**
 
-## Possible student projects in collaboration with the [ERATO-MMSD Center](https://group-mmm.org/eratommsd/) in Tokyo:
+## Possible student projects for KTH students in collaboration with the [ERATO-MMSD Center](https://group-mmm.org/eratommsd/) in Tokyo:
 
 ### A combinatorial approach to detect unstable configurations
 Many cyber-physical systems have controllers and algorithms that depend on parameters; they reflect real-world conditions (in a simulation) or settings of the controller itself. The problem of finding an unstable configuration pair is concerned with finding a setting that works well, but fails if one or a few parameters are changed slightly. The challenge is to find a similar pair of configurations that shows such instability.
