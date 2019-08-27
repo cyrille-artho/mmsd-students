@@ -4,7 +4,7 @@
 
 ### A combinatorial approach to detect unstable configurations
 Many cyber-physical systems have controllers and algorithms that depend on parameters; they reflect real-world conditions (in a simulation) or settings of the controller itself. The problem of finding an [unstable configuration pair](https://dl.acm.org/citation.cfm?doid=3321707.3321755) is concerned with finding a setting that works well, but fails if one or a few parameters are changed slightly. The challenge is to find a similar pair of configurations that shows such instability.
-In this project, we aim to apply [combinatorial approaches](https://doi.org/10.1109/ICSTW.2019.00053) to search efficiently through configurations that are affected by pair-wise (or k-wise) changes, using a [new combinatorial test generator]((https://github.com/ERATOMMSD/scenario_sampler_code)) by Yamada. This extends prior work by Arcaini and Yamada, members of the MMSD-ERATO research center in Japan.
+In this project, we aim to apply [combinatorial approaches](https://doi.org/10.1109/ICSTW.2019.00053) to search efficiently through configurations that are affected by pair-wise (or k-wise) changes, using a [new combinatorial test generator](https://github.com/ERATOMMSD/scenario_sampler_code) by Yamada. This extends prior work by Arcaini and Yamada, members of the MMSD-ERATO research center in Japan.
 
 ### Synthesizing attacks on wireless communication
 In his recent work, Cetinkaya showed an efficient [jamming attack on wireless communication](https://epubs.siam.org/doi/pdf/10.1137/17M1135438). That attack was found by specifying the attack pattern a priori.
